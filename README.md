@@ -1,6 +1,7 @@
 # Island（未定）Other languages are OK
 待望のOSSゲーム！（笑）
 - MMO・オープンワールド
+- 島はATLAS・TPS視点のFortnite・戦闘はDark Souls・審判はVALORANT・武器やレア度はBorderlandsの感じ
 - GPLv3.0
 - Unreal Engine
 - クロスプラットフォーム Windows・PlayStation・Xbox
